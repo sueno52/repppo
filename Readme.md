@@ -1,1 +1,1 @@
-my first remote repositorys
+my first remote repository
